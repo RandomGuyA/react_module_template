@@ -1,0 +1,1 @@
+import Core from './app/components/Core.jsx'
